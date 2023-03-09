@@ -26,7 +26,7 @@ or via [XcodeGen](https://github.com/yonaskolb/XcodeGen) insert into your `proje
 name: YourProjectName
 options:
   deploymentTarget:
-    iOS: 6.1
+    iOS: 12
 packages:
   CardIO:
     url: https://github.com/c-villain/card.io-iOS-SDK
